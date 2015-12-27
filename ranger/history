@@ -1,0 +1,50 @@
+search 2015
+meta daw hey
+meta title Hey
+meta
+flat 1
+flat 10
+flat 0
+shell 
+filter 
+open_with s
+open_with 4
+open_with 0
+open_with iso-info -ql $@
+open_with iso-info -ql "$@"
+search ubun
+cd .fonts
+cd  .local
+cd  mpd
+mkdir pkgbuils
+rename pkgbuilds
+rename
+cd profile.d/
+cd  .minecraft
+cd .minecraft
+open_with 1
+cd .local
+cd themes/
+shell su
+`
+shell unzip IL\ MIO\ NUOVO\ COMPUTER.docx
+rename Photos.lnk
+cd 
+cd .config
+cd  .local/share/fots
+cd .local/share/fonts
+rename Monaco_Linux-Powerline.ttf monacoPowerline.ttf
+rename monacoPowerline.ttf
+shell mkdir Supertramp
+open_with vim
+open_with 
+rename Foxtrot
+delete
+rename 
+rename .themes
+
+shell unzip
+shell unzip 
+shell unzip 166607-polar-night.tar.gz
+shell tar zxvf 166607-polar-night.tar.gz
+shell unzip cenodark_by_vinceliuice-d7mq7in.zip

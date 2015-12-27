@@ -1,0 +1,8 @@
+[user]
+	email = daniele.monteleone.it@gmail.com
+	name = Daniele Monteleone
+[push]
+	default = matching
+[core]
+	editor = vim
+
